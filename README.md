@@ -1,5 +1,5 @@
 # RipTide-Fitness-Project
-Author: Tasha Vollmer-Selby
+Author: Tasha Vollmer-Selby,
 Date:   28/07/2020
 
 Comments:
