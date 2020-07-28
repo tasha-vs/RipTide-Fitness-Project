@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RipTideFitness.Admin_Home">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+      <Field Name="pictureBox3" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>QAQAABAAECAABAAAAACAgAACACBQAAAAACABgCBAAAA=</HashCode>
+      <FileName>Admin-Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.AdminLogin">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAFAAACAAIACAEAIAABAAkAAAABAAAA=</HashCode>
+      <FileName>AdminLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.Balance_Class">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Balance-Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.Cardio_Class">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cardio-Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.Equipment">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACIAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Equipment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.FitnessClass">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAACAAAAAAAAAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>FitnessClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.Home">
+    <Position X="9.25" Y="4.25" Width="1.5" />
+    <Members>
+      <Method Name="button1_Click" Hidden="true" />
+      <Method Name="button2_Click" Hidden="true" />
+      <Method Name="button3_Click" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAACAAEACACAAAAAAAHAAACBAAEA=</HashCode>
+      <FileName>Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.Logged_In_Home">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAEiQgAIAAAACAAAACACAAAAAAACAAACAAAAA=</HashCode>
+      <FileName>Logged-In-Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.Login">
+    <Position X="9.25" Y="7.75" Width="1.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAFAAACAAIACAEAIAABAAkAAAABAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.Manage_Classes">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AQAgAQAIEDQgAAAAAACIBsACACAAAARAAAAAAIBAAQU=</HashCode>
+      <FileName>Manage-Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.Manage_Equipment">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AQAAAEBAECAAAAAQAIGAAMACACgAAABAAAAAAAAEEAA=</HashCode>
+      <FileName>Manage-Equipment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.Manage_StaffDB">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>gAAiAAEABCACgDFAAgCCFLCSRUEsMBVEAkAgiAEAAQQ=</HashCode>
+      <FileName>Manage-Members.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.ManageStaff">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>gABgABABFCYWCJIAAgCgEAAGDBEEMAF0gECgABGBAwQ=</HashCode>
+      <FileName>ManageStaff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.Program">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgCAAAAAIAAAAAAAEAhAAAAAABAAAAAE=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.Register">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>gAIgAAAIACAEAAhAAACABIACAEEABgBAAwAgAAFgAEA=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RipTideFitness.Strength_Class">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strength-Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
