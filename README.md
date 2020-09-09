@@ -7,3 +7,6 @@ Final project for my Programming II paper that I completed at WelTec.
 This is a management system for a hypothetical gym business.
 Developed in Visual Studio using Windows Forms.
 This app contains a MySQL database. 
+
+##The home page:
+
